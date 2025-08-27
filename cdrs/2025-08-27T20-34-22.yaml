@@ -1,0 +1,11 @@
+id: cdr-2025-08-27T20-34-22
+actor: harsh
+summary:
+  shipscore: 84.48
+inputs:
+  trivy: {'critical': 0, 'high': 1, 'medium': 0, 'low': 0}
+  checkov: {'failed': 0}
+  opa: {'deny': 0}
+  k6: {'p95_ms': 300, 'error_rate': 0}
+recommendations:
+  - "All gates clean. Ready to ship."

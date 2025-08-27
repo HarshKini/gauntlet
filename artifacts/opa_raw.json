@@ -1,0 +1,12 @@
+[
+	{
+		"filename": "/src/main.tf",
+		"namespace": "main",
+		"successes": 0
+	},
+	{
+		"filename": "/src/providers.tf",
+		"namespace": "main",
+		"successes": 0
+	}
+]
